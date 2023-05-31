@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c980db&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Rodrigo+Pinheiro+Ramirez;Eu+tenho+26+anos;Estudante+de+Desenvolvimento+Web;Bem+Vindes!+:%29)](https://git.io/typing-svg)
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RodrigoRamirez1&bg_color=0d1117&color=aa27ca&line=c980db&point=4a0a68&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RodrigoRamirez1&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
