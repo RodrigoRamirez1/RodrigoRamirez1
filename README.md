@@ -27,7 +27,7 @@
 ## Tecnologias em estudo 🖥️
 
 <di style="display: inline_block">
-   <h3>HTML  |  CSS  |  JavaScript  |  Vue.js  |  Java  |  Python  |  MySQL</h3>
+   <h3>HTML  |  CSS  |  JavaScript  |  Vue.js  |  Java  |  Python  |  MySQL | Docker</h3>
  </div>
  
   <br/>
