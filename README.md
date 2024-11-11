@@ -26,9 +26,7 @@
 
 ## Tecnologias em estudo 🖥️
 
-<di style="display: inline_block">
-   <h3>HTML  |  CSS  |  JavaScript  |  Vue.js  |  Java  |  Python  |  MySQL | Docker</h3>
- </div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postgres,html,css,js,vue,python)](https://skillicons.dev)
  
   <br/>
   <br/>
